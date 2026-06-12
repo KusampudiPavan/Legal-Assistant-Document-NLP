@@ -1,8 +1,3 @@
-## Team Members:
-1. Pavan Kusampudi – 700762366
-2. Ajith Bonda - 700766394
-3. Subha Sri Lakshmi Achyutha - 700766668
-4. Tejaswini Kolluru - 700773943
 
 # Project Title: “AI-Powered Legal Document Intelligence Assistant”
 # Project Introduction:
